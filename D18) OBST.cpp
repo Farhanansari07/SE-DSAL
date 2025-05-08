@@ -85,3 +85,27 @@ print(i,r[i][j]-1);
 print(r[i][j],j);
 }
 
+/*
+OUTPUT:
+
+enter the no of identifiers : 4
+
+enter identifiers
+Identifier no 1 :  if
+
+Identifier no 2 :  while
+
+Identifier no 3 :  for
+
+Identifier no 4 :  do
+
+enter success propability for identifiers
+p[1] : 0.7
+
+p[2] : 0.5
+
+p[3] : 0.1
+
+p[4] : 0.2
+
+*/
